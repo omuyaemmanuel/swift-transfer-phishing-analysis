@@ -221,11 +221,17 @@ Transfer Reference Number
 ![Email Header](screenshots/email-header3.png)
 ![Email Header](screenshots/email-header4.png)
 
+## SPF & DKIM Failure Result
 
+![SPF Failure](screenshots/spf-fail.png)
+![DKIM Failure](screenshots/authentication{SPF&DKIM}.png)
 
-## SPF Failure Result
+## Email Body
+![Email Body](phishing-email-body1.png)
+![Email Body](phishing-email-body2.png)
 
-![SPF Failure](screenshots/spf-failure.png)
+## Virustotal Report (Email Attachment)
+![Virustotal](virustotal.png)
 
 ---
 
