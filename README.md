@@ -224,14 +224,14 @@ Transfer Reference Number
 ## SPF & DKIM Failure Result
 
 ![SPF Failure](screenshots/spf-fail.png)
-![DKIM Failure](screenshots/authentication{SPF&DKIM}.png)
+![DKIM Failure](screenshots/authentication {SPF&DKIM}.png)
 
 ## Email Body
-![Email Body](phishing-email-body1.png)
-![Email Body](phishing-email-body2.png)
+![Email Body](screenshots/phishing-email-body1.png)
+![Email Body](screenshots/phishing-email-body2.png)
 
 ## Virustotal Report (Email Attachment)
-![Virustotal](virustotal.png)
+![Virustotal](screenshot/virustotal.png)
 
 ---
 
