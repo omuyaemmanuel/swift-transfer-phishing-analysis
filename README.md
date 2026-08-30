@@ -224,7 +224,7 @@ Transfer Reference Number
 ## SPF & DKIM Failure Result
 
 ![SPF Failure](screenshots/DKIM.png)
-![DKIM Failure](screenshots/authentication {SPF&DKIM}.png)
+![DKIM Failure](screenshots/spf-fail.png)
 
 ## Email Body
 ![Email Body](screenshots/phishing-email-body1.png)
