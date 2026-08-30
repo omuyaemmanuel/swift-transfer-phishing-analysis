@@ -223,7 +223,7 @@ Transfer Reference Number
 
 ## SPF & DKIM Failure Result
 
-![SPF Failure](screenshots/spf-fail.png)
+![SPF Failure](screenshots/DKIM.png)
 ![DKIM Failure](screenshots/authentication {SPF&DKIM}.png)
 
 ## Email Body
@@ -231,7 +231,7 @@ Transfer Reference Number
 ![Email Body](screenshots/phishing-email-body2.png)
 
 ## Virustotal Report (Email Attachment)
-![Virustotal](screenshot/virustotal.png)
+![Virustotal](screenshots/virustotal.png)
 
 ---
 
