@@ -89,7 +89,7 @@ spf=fail
 ## Detailed Output
 
 ```text
-domain of mutawamarine.com does not designate x.x.x.x as permitted sender
+domain of mutawamarine.com does not designate 192.119.71.157 as permitted sender
 ```
 
 ## Analysis
@@ -216,7 +216,12 @@ Transfer Reference Number
 
 ## Email Header Analysis
 
-![Email Header](screenshots/email-header.png)
+![Email Header](screenshots/email-header1.png)
+![Email Header](screenshots/email-header2.png)
+![Email Header](screenshots/email-header3.png)
+![Email Header](screenshots/email-header4.png)
+
+
 
 ## SPF Failure Result
 
@@ -225,8 +230,6 @@ Transfer Reference Number
 ---
 
 # Recommended SOC Actions
-
-A SOC analyst responding to this email would typically:
 
 1. Quarantine the email
 2. Extract and sandbox attachments
@@ -250,18 +253,6 @@ This email contains multiple indicators commonly associated with phishing campai
 - Sender spoofing indicators
 
 Based on the evidence collected, the email is highly suspicious and should be treated as a phishing attempt.
-
----
-
-# Skills Demonstrated
-
-- Email Header Analysis
-- Phishing Investigation
-- SPF/DKIM/DMARC Review
-- IOC Extraction
-- Threat Hunting
-- MITRE ATT&CK Mapping
-- SOC Investigation Workflow
 
 ---
 
