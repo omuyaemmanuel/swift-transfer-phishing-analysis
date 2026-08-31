@@ -306,4 +306,3 @@ URLs and domains are defanged in documentation where appropriate:
 ```text
 hxxps://pxlme[.]me/zAVvQVdl
 ```
-The original email should be retained separately as evidence and should not be published publicly if it contains sensitive information or active malicious payloads.
