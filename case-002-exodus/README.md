@@ -10,7 +10,7 @@ The email contained a deceptive hyperlink. The visible link was presented as:
 
 However, the actual hyperlink destination was:
 
-`https://pxlme.me/zAVvQVdl`
+`hxxps://pxlme[.]me/zAVvQVdl`
 
 Header analysis identified significant discrepancies between the visible sender identity and the underlying email infrastructure.
 
